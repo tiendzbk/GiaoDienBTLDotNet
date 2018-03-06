@@ -1,0 +1,42 @@
+.top-navbar{
+    margin-top: 30px;
+}
+.navbar-nav{
+    margin-left: 200px;
+}
+.navbar-nav li{
+    padding-left :10px;
+    padding-right: 10px;
+}
+.List-listen-excrise h3{
+    margin-top: 0px;
+}
+.List-listen-excrise ul li{
+    list-style: none;
+}
+.List-listen-excrise ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+
+}
+.List-listen-excrise ul li a:hover{
+    color: red;
+}
+.List-listen-excrise ul li p{
+    margin-left: 10px;
+    font-size: 13px;
+    color: rgb(170, 166, 166);
+}
+
+.Login-and-Signup ul li{
+    list-style: none;
+}
+.Login-and-Signup li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(201, 59, 59);
+}
+.page-number{
+    padding-left: 40px;
+}
